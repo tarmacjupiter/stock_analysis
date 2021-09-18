@@ -1,7 +1,6 @@
 ACT Symbol,Company Name
 A,"Agilent Technologies, Inc. Common Stock"
 AA,Alcoa Inc. Common Stock
-AA$B,Alcoa Inc. Depository Shares Representing 1/10th Preferred Convertilble Class B Series 1
 AAC,"AAC Holdings, Inc. Common Stock"
 AAN,"Aaron's, Inc. Common Stock"
 AAP,Advance Auto Parts Inc Advance Auto Parts Inc W/I
@@ -15,8 +14,8 @@ ABEV,Ambev S.A. American Depositary Shares (Each representing 1 Common Share)
 ABG,Asbury Automotive Group Inc Common Stock
 ABM,ABM Industries Incorporated Common Stock
 ABR,Arbor Realty Trust Common Stock
-ABR$A,Arbor Realty Trust Preferred Series A
-ABR$B,Arbor Realty Trust Cumulative Redeemable Preferred Series B
+ABRA,Arbor Realty Trust Preferred Series A
+ABRB,Arbor Realty Trust Cumulative Redeemable Preferred Series B
 ABR$C,Arbor Realty Trust Cumulative Redeemable Preferred Series C
 ABRN,Arbor Realty Trust 7.375% Senior Notes due 2021
 ABT,Abbott Laboratories Common Stock
@@ -53,10 +52,10 @@ AEO,"American Eagle Outfitters, Inc. Common Stock"
 AEP,"American Electric Power Company, Inc. Common Stock"
 AER,Aercap Holdings N.V. Ordinary Shares
 AES,The AES Corporation Common Stock
-AES$C,AES Corporation (The) Class C Preferred Stock
+AESC,AES Corporation (The) Class C Preferred Stock
 AET,Aetna Inc. Common Stock
 AF,Astoria Financial Corporation Common Stock
-AF$C,Astoria Financial Corporation Depositary Shs Repstg 1/40th Int Perp Pfd Ser C 6.5%
+AFC,Astoria Financial Corporation Depositary Shs Repstg 1/40th Int Perp Pfd Ser C 6.5%
 AFA,"American Financial Group, Inc. 5.75% Senior Notes due 2042"
 AFB,AllianceBernstein National Municipal Income Fund Inc
 AFC,"Allied Capital Corporation Allied Capital Corporation 6.875% Notes due April 15, 2047"

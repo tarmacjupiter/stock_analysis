@@ -4,7 +4,7 @@ from yahoo_fin import stock_info as si  # Used to find live value of stock
 from csv import DictReader, reader  # Used to create CSV and read CSV
 from decimal import *  # Used to convert percent String to decimal value
 
-# Create a new CSV file, given "Write" privledges
+# Create a new CSV file, given 'Write' privledges
 sys.stdout = open("stocks.csv", "w")
 
 print("Company Name,Ticker,Current Stock Price,Percentage")

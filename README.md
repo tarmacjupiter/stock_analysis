@@ -12,10 +12,12 @@
 
 **is the original file**
 
+---
+
 > stocks.csv
 
-**is the new file where**
+**is the new file where the new data table with current prices are created**
 
 `sys.stdout = open("stocks.csv", "w")`
 
-**was created**
+_made from ^^^ command_

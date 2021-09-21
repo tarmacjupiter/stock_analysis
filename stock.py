@@ -18,10 +18,10 @@ with open('modelworksheet.csv', 'r') as read_obj:
         # row variable is a list that represents a row in cvs
 
         # Save yfinance.Ticker object ACT symbol in stock_abrev
-        # stock_abrev = yf.Ticker(row["Ticker"])
+        #stock_abrev = yf.Ticker(row["Ticker"])
 
         # Logic for getting extended name of ACT symbol, not fully functional
-        # company_name = stock_abrev.info['longName']
+        #company_name = stock_abrev.info['longName']
 
         # # Save the current market price of the stock, rounds to the hundredth's place
         # # (yahoo_fin)

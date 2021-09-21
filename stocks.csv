@@ -1,18 +1,15 @@
-Company Name,Ticker,Current Stock Price,Percentage
-iShares ESG Aware MSCI USA ETF,ESGU,100.28,19.00%
-iShares Core S&P 500 ETF,IVV,438.44,16.00%
-iShares Core Total USD Bond Market ETF,IUSB,53.81,11.50%
-iShares MSCI EAFE Value ETF,EFV,50.96,9.00%
-iShares MSCI EAFE Growth ETF,EFG,111.55,8.50%
-iShares US Treasury Bond ETF,GOVT,26.85,6.50%
-iShares MSCI USA Value Factor ETF,VLUE,100.91,4.50%
-iShares ESG Aware MSCI EM ETF,ESGE,41.5,4.00%
-iShares Core S&P Small-Cap ETF,IJR,107.69,4.00%
-iShares TIPS Bond ETF,TIP,128.69,4.00%
-iShares Global Tech ETF,IXN,58.42,4.00%
-iShares Global Financials ETF,IXG,76.67,3.00%
-iShares GSCI Cmd Dyn Roll Stgy ETF,COMT,34.31,1.00%
-iShares US Energy ETF,IYE,26.15,1.00%
-Apple Inc.,AAPL,143.9,0.50%
-StarBucks Inc.,SBUX,112.85,0.50%
-Tesla Inc,TSLA,739.91,1.00%
+Company Name,Ticker,Current Stock Price,Percentage,Proposed
+iShares ESG Aware MSCI USA ETF,ESGU,99.93,19.00%,57000.0
+iShares Core S&P 500 ETF,IVV,436.98,16.00%,48000.0
+iShares Core Total USD Bond Market ETF,IUSB,53.8,11.50%,34500.0
+iShares MSCI EAFE Value ETF,EFV,50.84,9.00%,27000.0
+iShares MSCI EAFE Growth ETF,EFG,111.29,8.50%,25500.000000000004
+iShares US Treasury Bond ETF,GOVT,26.85,6.50%,19500.0
+iShares MSCI USA Value Factor ETF,VLUE,100.55,4.50%,13500.0
+iShares ESG Aware MSCI EM ETF,ESGE,41.45,4.00%,12000.0
+iShares Core S&P Small-Cap ETF,IJR,107.35,4.00%,12000.0
+iShares TIPS Bond ETF,TIP,128.73,4.00%,12000.0
+iShares Global Tech ETF,IXN,58.29,4.00%,12000.0
+iShares US Energy ETF,IYE,26.06,4.00%,12000.0
+iShares Global Financials ETF,IXG,76.48,3.00%,9000.0
+iShares GSCI Cmd Dyn Roll Stgy ETF,COMT,34.0,2.00%,6000.0

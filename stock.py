@@ -1,5 +1,4 @@
 import sys  # Import system
-import yfinance as yf  # Get long name from Ticker (may not need to be used)
 from yahoo_fin import stock_info as si  # Used to find live value of stock
 from csv import DictReader, reader  # Used to create CSV and read CSV
 from decimal import *  # Used to convert percent String to decimal value

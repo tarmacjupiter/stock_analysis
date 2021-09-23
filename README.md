@@ -1,4 +1,59 @@
-# stock_project
+# Stock Analysis
+
+---
+
+## Stock Analysis for Windows 10
+
+1. Press the Green (&#x1F4D7;) "Code" button
+
+2. Download the files by pressing "Download Zip"
+
+3. Extract the files anywhere on your computer
+   ⋅⋅\* (Extract the files in a location where you will have easy access)
+
+4. Go into the "Installation Folder"
+
+5. Right click "install-requirements.ps1"
+
+6. Press, "Run with PowerShell"
+   ⋅⋅\* (The PowerShell program will automatically close once it has installed all dependencies)
+
+7. Head back into the main folder directory
+
+8. Right click "run_script.ps1"
+
+9. Press "Run with PowerShell"
+
+10. After the program is done processing the new data will be stored in "stocks-data.csv"
+
+---
+
+## Stock Analysis for MacOS and Linux
+
+1. Open terminal in the Stock Analysis directory location
+
+2. cd into Installation folder
+
+3. Then type
+
+```console
+$ pip install -r requirements.txt
+
+```
+
+4. Then go into main directory folder
+
+5. Then type in the shell
+
+```console
+python stock.py
+```
+
+⋅⋅\* (May need to type "python3 stock.py" depending on installtion and build of Python)
+
+---
+
+### For Developers
 
 1. Have an assistant load the $ in the current column from client statements.
 

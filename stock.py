@@ -7,7 +7,7 @@ from decimal import *  # Used to convert percent String to decimal value
 total_price = float(input("Total Price in portfolio: "))
 
 # Create a new CSV file, given 'Write' privledges
-sys.stdout = open("stocks.csv", "w")
+sys.stdout = open("stocks-data.csv", "w")
 
 # Header names for the CSV file
 print("Company Name,Ticker,Current Stock Price,Percentage,Proposed")

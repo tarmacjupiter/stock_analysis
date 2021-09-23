@@ -6,7 +6,7 @@ Program to get live stock prices of ticker values, calculate proposed prices, an
 
 ## Stock Analysis for Windows 10
 
-1. Press the Green (&#x1F4D7;) "Code" button
+1. Press the Green "Code" button
 
 2. Download the files by pressing "Download Zip"
 
@@ -20,7 +20,7 @@ Program to get live stock prices of ticker values, calculate proposed prices, an
 6. Press, "Run with PowerShell"
    (The PowerShell program will automatically close once it has installed all dependencies)
 
-7. Head back into the main folder directory
+7. Head back into the main folder
 
 8. Right click "run_script.ps1"
 

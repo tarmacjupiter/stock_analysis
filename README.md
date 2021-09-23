@@ -1,5 +1,7 @@
 # Stock Analysis
 
+Program to get live stock prices of ticker values, calculate proposed prices, and determine amount of stocks to buy or sell
+
 ---
 
 ## Stock Analysis for Windows 10

@@ -37,7 +37,7 @@
 3. Then type
 
 ```console
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 
 ```
 

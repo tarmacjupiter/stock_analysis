@@ -9,14 +9,14 @@
 2. Download the files by pressing "Download Zip"
 
 3. Extract the files anywhere on your computer
-   ⋅⋅\* (Extract the files in a location where you will have easy access)
+   (Extract the files in a location where you will have easy access)
 
 4. Go into the "Installation Folder"
 
 5. Right click "install-requirements.ps1"
 
 6. Press, "Run with PowerShell"
-   ⋅⋅\* (The PowerShell program will automatically close once it has installed all dependencies)
+   (The PowerShell program will automatically close once it has installed all dependencies)
 
 7. Head back into the main folder directory
 
@@ -49,7 +49,9 @@ $ pip install -r requirements.txt
 python stock.py
 ```
 
-⋅⋅\* (May need to type "python3 stock.py" depending on installtion and build of Python)
+    (May need to type "python3 stock.py" depending on installtion and build of Python)
+
+6. After the program is done processing the new data will be stored in "stocks-data.csv"
 
 ---
 

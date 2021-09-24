@@ -1,4 +1,4 @@
-![alt text](https://www.clipartmax.com/png/full/360-3605240_stocks-transparent-background-transparent-stock-icon-png.png)
+![alt text](https://images.vexels.com/media/users/3/157446/isolated/lists/383f43305de4fbc3c6a3bdfb25a1b758-marketing-graph-icon.png)
 
 # Stock Analysis
 

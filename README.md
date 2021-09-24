@@ -1,3 +1,5 @@
+![alt text](https://www.clipartmax.com/png/full/360-3605240_stocks-transparent-background-transparent-stock-icon-png.png)
+
 # Stock Analysis
 
 Program to get live stock prices of ticker values, calculate proposed prices, and determine amount of stocks to buy or sell

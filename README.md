@@ -15,18 +15,11 @@ Program to get live stock prices of ticker values, calculate proposed prices, an
 
 4. Go into the "Installation Folder"
 
-5. Right click "install-requirements.ps1"
+5. Run the "Installation"
 
-6. Press, "Run with PowerShell"
-   (The PowerShell program will automatically close once it has installed all dependencies)
+6. Head back into the main folder
 
-7. Head back into the main folder
-
-8. Right click "run_script.ps1"
-
-9. Press "Run with PowerShell"
-
-10. After the program is done processing the new data will be stored in "stocks-data.csv"
+7. Run "Stock Analysis"
 
 ---
 
@@ -54,6 +47,13 @@ python stock.py
     (May need to type "python3 stock.py" depending on installtion and build of Python)
 
 6. After the program is done processing the new data will be stored in "stocks-data.csv"
+
+---
+
+## Warnings
+
+"modelworksheet.csv" must NOT be renamed
+(Unless you rename the file both in the folder AND in the python script)
 
 ---
 

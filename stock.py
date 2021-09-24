@@ -4,7 +4,9 @@ from csv import DictReader, reader  # Used to create CSV and read CSV
 from decimal import *  # Used to convert percent String to decimal value
 
 # Takes the total price invested in all the stocks in the Stock Portfolio
-total_price = float(input("Total Price in portfolio: "))
+total_price = float(input("Total Price in portfolio: ")) 
+
+print(total_price)
 
 # Create a new CSV file, given 'Write' privledges
 sys.stdout = open("stocks-data.csv", "w")

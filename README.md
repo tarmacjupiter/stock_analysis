@@ -54,8 +54,9 @@ python stock.py
 
 ## Warnings
 
-"modelworksheet.csv" must NOT be renamed
-(Unless you rename the file both in the folder AND in the python script)
+1. "modelworksheet.csv" must NOT be renamed
+    (Unless you rename the file both in the folder AND in the python script)
+2. The column values, "Names", "Ticker", "Percent", "Current", etc... must NOT be changed, the script uses these specific names to fetch data from "modelworksheet.csv"
 
 ---
 

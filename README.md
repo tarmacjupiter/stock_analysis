@@ -15,11 +15,9 @@ Program to get live stock prices of ticker values, calculate proposed prices, an
 3. Extract the files anywhere on your computer
    (Extract the files in a location where you will have easy access)
    
-4. Install Python 3.x on the Windows Microsoft Store 
-
-(If you already have Python you can skip this step)
-
 5. Go into the "Installation Folder"
+
+6. Run "InstallPython"
 
 6. Run the "Installation"
 

@@ -1,15 +1,15 @@
-"Name","Ticker","Percent","Current","Proposed","Price","Buys","Sells","",""
-"iShares ESG Aware MSCI USA ETF","ESGU","19.00%","","","","","","",""
-"iShares Core S&P 500 ETF","IVV","16.00%","","","","","","",""
-"iShares Core Total USD Bond Market ETF","IUSB","11.50%","","","","","","",""
-"iShares MSCI EAFE Value ETF","EFV","9.00%","","","","","","",""
-"iShares MSCI EAFE Growth ETF","EFG","8.50%","","","","","","",""
-"iShares US Treasury Bond ETF","GOVT","6.50%","","","","","","",""
-"iShares MSCI USA Value Factor ETF","VLUE","4.50%","","","","","","",""
-"iShares ESG Aware MSCI EM ETF","ESGE","4.00%","","","","","","",""
-"iShares Core S&P Small-Cap ETF","IJR","4.00%","","","","","","",""
-"iShares TIPS Bond ETF","TIP","4.00%","","","","","","",""
-"iShares Global Tech ETF","IXN","4.00%","","","","","","",""
-"iShares US Energy ETF","IYE","4.00%","","","","","","",""
-"iShares Global Financials ETF","IXG","3.00%","","","","","","",""
-"iShares GSCI Cmd Dyn Roll Stgy ETF","COMT","2.00%","","","","","","",""
+Name,Ticker,Percent,Current,Proposed,Price,Buys,Sells
+iShares ESG Aware MSCI USA ETF,ESGU,19.00%,55000,57000
+iShares Core S&P 500 ETF,IVV,16.00%,50000,48000
+iShares Core Total USD Bond Market ETF,IUSB,11.50%,34500,34500
+iShares MSCI EAFE Value ETF,EFV,9.00%,19000,27000
+iShares MSCI EAFE Growth ETF,EFG,8.50%,30000,25500
+iShares US Treasury Bond ETF,GOVT,6.50%,20000,19500
+iShares MSCI USA Value Factor ETF,VLUE,4.50%,15000,13500
+iShares ESG Aware MSCI EM ETF,ESGE,4.00%,11000,12000
+iShares Core S&P Small-Cap ETF,IJR,4.00%,800,12000
+iShares TIPS Bond ETF,TIP,4.00%,10000,12000
+iShares Global Tech ETF,IXN,4.00%,17000,12000
+iShares US Energy ETF,IYE,4.00%,30000,12000
+iShares Global Financials ETF,IXG,3.00%,500,9000
+iShares GSCI Cmd Dyn Roll Stgy ETF,COMT,2.00%,10000,6000

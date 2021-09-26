@@ -9,7 +9,7 @@ total_price = float(input("Total Price in portfolio: "))
 print(total_price)
 
 # Create a new CSV file, given 'Write' privledges
-sys.stdout = open("stocks-data.csv", "w")
+sys.stdout = open("Stock-Data/stocks-data.csv", "w")
 
 # Header names for the CSV file
 print("Company Name,Ticker,Current Stock Price,Percentage,Proposed")

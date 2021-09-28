@@ -32,9 +32,15 @@ Write-Host "`n"
 
 pip install -r .\requirements.txt
 
-Start-Sleep -Seconds 1
+Start-Sleep -Seconds 3
 
 pip3 install yahoo-fin
+
+Start-Sleep -Seconds 3
+
+pip install yahoo-fin
+
+Start-Sleep -Seconds 1
 
 Write-Host "`n"
 

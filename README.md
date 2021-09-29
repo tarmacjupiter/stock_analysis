@@ -14,16 +14,10 @@ Program to get live stock prices of ticker values, calculate proposed prices, an
 
 3. Extract the files anywhere on your computer
    (Extract the files in a location where you will have easy access)
-   
-5. Go into the "Installation Folder"
-
-6. Run "InstallPython"
-
-6. Run the "Installation"
-
-7. Head back into the main folder
-
-8. Run "Stock Analysis"
+4. Install the most recent version of Python [here](https://www.python.org/downloads/)
+5. Go into the "stock_anaylsis" folder
+6. Run "Installation" in the "Installation" folder
+7. Go back and run "Stock-Anaylsis"
 
 ---
 

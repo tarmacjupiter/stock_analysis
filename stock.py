@@ -1,11 +1,34 @@
 import sys  # Import system
+import PySimpleGUI as sg # GUI
 import math # Self-explanatory 
 from yahoo_fin import stock_info as si  # Used to find live value of stock
 from csv import DictReader, reader  # Used to create CSV and read CSV
 from decimal import *  # Used to convert percent String to decimal value
 
+# Add some color
+# to the window
+sg.theme('DarkBlue13')  
+
+#Font
+font = ("Chivo", 18)
+
+#Font for Button
+fontButton = ("Chivo", 14)
+
+# Very basic window.
+# Return values using
+# automatic-numbered keys
+layout = [
+    [sg.Text('Enter Amount in Stock Portfolio:', key='-text-', font=font)],
+    [sg.Text('Amount:', size =(6, 1), font=fontButton), sg.InputText()],
+    [sg.Submit(), sg.Exit()]
+]
+  
+window = sg.Window('Stock Analysis', layout, margins=(100, 100))
+event, values = window.read()
+
 # Takes the total price invested in all the stocks in the Stock Portfolio
-total_price = float(input("Total Price in portfolio: ")) 
+total_price = float(values[0]) 
 
 print(total_price)
 
@@ -77,3 +100,5 @@ with open('modelworksheet.csv', 'r') as read_obj:
               str(stock_live_price) + "," + row["Percent"] + "," + str(proposed) + "," + row["Current"] + "," + str(math.floor(buys)) + "," + str(math.floor(sells)))
 
 sys.stdout.close()
+sg.Popup("  Data Saved in 'Stock-Data/stocks-data.csv'  ", keep_on_top=True)
+window.close()

@@ -8,15 +8,19 @@ Program to get live stock prices of ticker values, calculate proposed prices, an
 
 ## Stock Analysis for Windows 10
 
-1. Press the Green "Code" button
+1. Install the most recent version of Python [here](https://www.python.org/downloads/)
 
-2. Download the files by pressing "Download Zip"
+2. Press the Green "Code" button
 
-3. Extract the files anywhere on your computer
+3. Download the files by pressing "Download Zip"
+
+4. Extract the files anywhere on your computer
    (Extract the files in a location where you will have easy access)
-4. Install the most recent version of Python [here](https://www.python.org/downloads/)
+
 5. Go into the "stock_anaylsis" folder
+
 6. Run "Installation" in the "Installation" folder
+
 7. Go back and run "Stock-Anaylsis"
 
 ---

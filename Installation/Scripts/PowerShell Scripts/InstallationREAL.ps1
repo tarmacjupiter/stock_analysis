@@ -52,6 +52,8 @@ pip install yahoo-fin
 
 Start-Sleep -Seconds 1
 
+pip install PySimpleGUI
+
 Write-Host "`n"
 
 `Write-Color "{green}Dependencies Installed!"`

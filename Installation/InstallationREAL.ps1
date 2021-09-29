@@ -54,6 +54,12 @@ Start-Sleep -Seconds 1
 
 pip install PySimpleGUI
 
+Start-Sleep -Seconds 1
+
+pip3 install PySimpleGUI
+
+Start-Sleep -Seconds 1
+
 Write-Host "`n"
 
 `Write-Color "{green}Dependencies Installed!"`

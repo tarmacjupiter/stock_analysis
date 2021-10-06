@@ -139,7 +139,7 @@ use current and proposed
 
 proposed > current ---> buy
 
-current > proposed ----> sell
+current > proposed ---> sell
 
 ---
 
